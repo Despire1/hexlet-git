@@ -6,14 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
+=======
+  "keywords": [],
+>>>>>>> 573b222870388ff16841b9138b6bfb537b4dd3ce
   "author": "",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
+<<<<<<< HEAD
   },
   "devDependencies": {
     "eslint": "^8.51.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.28.1"
+=======
+>>>>>>> 573b222870388ff16841b9138b6bfb537b4dd3ce
   }
 }
